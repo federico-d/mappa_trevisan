@@ -1,0 +1,104 @@
+[
+  {
+    "key": "moniego",
+    "latitude": 45.56289,
+    "longitude": 12.085,
+    "name": "Moniego"
+  },
+  {
+    "key": "PasticceriaRosaSalva",
+    "latitude": 45.4352137,
+    "longitude": 12.3378751,
+    "name": " Pasticceria Rosa Salva "
+  },
+  {
+    "key": "Fava",
+    "latitude": 45.4363736,
+    "longitude": 12.3378658,
+    "name": " Fava – corte Rubri "
+  },
+  {
+    "key": "B&BSanG",
+    "latitude": 45.438534,
+    "longitude": 12.340037,
+    "name": " B&B San Giovanni e Paolo "
+  },
+  {
+    "key": "Biri5384",
+    "latitude": 45.441071,
+    "longitude": 12.340636,
+    "name": " Biri 5384 "
+  },
+  {
+    "key": "CalleCorner",
+    "latitude": 45.437843,
+    "longitude": 12.329341,
+    "name": " Calle Corner "
+  },
+  {
+    "key": "RistoranteRossini",
+    "latitude": 45.435097,
+    "longitude": 12.333101,
+    "name": " Ristorante Rossini "
+  },
+  {
+    "key": "GloriaBiasio",
+    "latitude": 45.437906
+    "longitude": 12.331156,
+    "name": " Gloria Biasio "
+  },
+  {
+    "key": "Baradel",
+    "latitude": 45.437834,
+    "longitude": 12.332403,
+    "name": " Baradel "
+  },
+  {
+    "key": "Pellegrinotti",
+    "latitude": 45.442098,
+    "longitude": 12.331750,
+    "name": " Pellegrinotti "
+  },
+  {
+    "key": "saturnia",
+    "latitude": 45.432885,
+    "longitude": 12.334263,
+    "name": "Hotel Saturnia"
+  },
+  {
+    "key": "pace",
+    "latitude": 45.905364,
+    "longitude": 12.105601,
+    "name": "Pace"
+  },
+  {
+    "key": "san-francisco",
+    "latitude": 37.774898529052734,
+    "longitude": -122.41899871826172,
+    "name": "San Francisco"
+  },
+  {
+    "key": "seattle",
+    "latitude": 47.614498138427734,
+    "longitude": -122.3479995727539,
+    "name": "Seattle"
+  },
+  {
+    "key": "south-carolina",
+    "latitude": 33.0723991394043,
+    "longitude": -80.03890228271484,
+    "name": "South Carolina"
+  },
+  {
+    "key": "sao-paulo",
+    "latitude": -23.573299407958984,
+    "longitude": -46.641700744628906,
+    "name": "Sao Paulo"
+  },
+  {
+    "key": "sydney",
+    "latitude": -33.86149978637695,
+    "longitude": 151.20599365234375,
+    "name": "Sydney"
+  }
+]
